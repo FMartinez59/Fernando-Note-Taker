@@ -1,9 +1,12 @@
 # Fernando-Note-Taker
 
-## 
+## The purpose of this was to create a back end system for the pre made front end to work. Using Express I was able to connect the front end to the back end to store the note data.
 
 ## Heres how it works
-https://drive.google.com/file/d/1HpggIE68uV4PC1hRq4-yTK6u7-hZtOEU/view
+https://adrive.google.com/file/d/1HpggIE68uV4PC1hRq4-yTK6u7-hZtOEU/view
+
+## Deployed
+https://fierce-caverns-64312.herokuapp.com/
 
  ## POINTS OF INTEREST
 -GIVEN a note-taking application
